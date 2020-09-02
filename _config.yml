@@ -1,9 +1,9 @@
-site: Sidey
-url: #yoururl
-title: Sidey
-description: Simple and minimalistic jekyll blogging theme.
+site: brio
+url: https://brio.seeread.info
+title: brio
+description: links and ephemera
 twitter:
-  username: #yourusername
+  username: seereadnow
   card: summary
   creator: #yourusername
 author:
@@ -16,7 +16,7 @@ permalink: pretty
 
 baseurl: ""
 
-highlighter: none
+highlighter: rouge
 
 exclude:
   - .jekyll-cache
@@ -41,6 +41,9 @@ collections:
   posts:
     output: true
     permalink: /:year/:month/:day/:slug
+  tags:
+    output: true
+    permalink: /tag/:name/
   
 defaults:
   -
@@ -60,3 +63,70 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  -
+    scope:
+      path: ""
+      type: "tags"
+    values:
+      layout: "tag"
+
+prose:
+  media: "assets/img"
+  metadata:
+    _pages:
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+      - name: "layout"
+        field:
+          element: "text"
+          value: "page"
+          label: "layout"
+    _tags:
+      - name: "slug"
+        field:
+          element: "text"
+          label: "Slug"
+      - name: "name"
+        field:
+          element: "text"
+          label: "Name"
+    _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+      - name: "summary"
+        field:
+          element: "textarea"
+          label: "Summary"
+      - name: "description"
+        field:
+          element: "textarea"
+          label: "Description"
+      - name: "layout"
+        field:
+          element: "text"
+          value: "post"
+          label: "Layout"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: " Tags"
+          placeholder: "Choose Tags"
+          options:
+            - name: "hack"
+              value: "hack"
+            - name: "geo"
+              value: "geo"
+      - name: "last_updated"
+        field:
+          element: "text"
+          value: CURRENT_DATETIME
+          label: "Last Updated"
+      - name: "published"
+        field:
+          element: "checkbox"
+          value: false
+          label: "Published"

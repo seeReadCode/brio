@@ -1,202 +1,263 @@
-*,:after,:before {
-	box-sizing:border-box;
-	background-color:inherit;
-	color:inherit;
-	margin:0;
-	padding:0;
+@import 'syntax';
+
+
+// CONTENTS
+// vars
+// core
+// layout
+// post
+// index
+// mobile
+// animations
+
+
+// vars
+$font-headings: 'Barlow';
+$font-body: 'Barlow';
+$whitish: hsl(244deg, 12%, 95%);
+$blackish: hsl(60deg, 9%, 9%);
+$gray: hsl(60deg, 10%, 80%);
+
+
+// core
+*,
+::after,
+::before {
+  background-color: inherit;
+  box-sizing: border-box;
+  color: inherit;
+  margin: 0;
+  padding: 0;
 }
 
-body {
-	font-family: system-ui, sans-serif;
-	-webkit-font-smoothing: antialiased;
-    text-rendering: optimizeLegibility;
-	line-height:1.5;
-	font-size: 1rem;
-	color: rgb(22, 23, 26);
-}
-
-nav ul {
-    border-right: 1px solid #edf2f7;
+// let the fonts load
+a,
+h1,
+h2,
+h3,
+h4,
+h5,
+ol,
+p,
+ul {
+  //scss-lint:disable VendorPrefix PropertySortOrder
+  animation: fadein 1.2s;
+  -o-animation: fadein 1.2s;
+  -moz-animation: fadein 1.2s;
+  -ms-animation: fadein 1.2s;
+  -webkit-animation: fadein 1.2s;
+  //scss-lint:enable VendorPrefix PropertySortOrder
 }
 
 a {
-    color: #000;
-    text-decoration-skip-ink: auto;
-    text-decoration: underline;
+  color: $blackish;
+  text-decoration: underline;
+  //scss-lint:disable PropertySpelling
+  text-decoration-skip-ink: auto;
+  //scss-lint:enable PropertySpelling
 }
 
-pre {
-	margin: .5rem 0;
-	padding: .5rem;
-}
-
-.post p {
-	margin: .5rem 0;
-}
-
-.post h1, .post h2, .post h3, .post h4 {
-	margin: 1rem 0;
-}
-
-.post h2:first-child, .project h2:first-child, .photo h2:first-child {
-	margin-top: 0;
-}
-
-.meta {
-	margin: 2rem 0;
-}
-
-code,pre {
-	background: rgb(236, 237, 238);
-}
-
-code {
-	padding: .1rem;
-}
-
-pre code {
-	border: none;
-}
-
-pre {
-	padding: 1rem;
-	overflow-x: auto;
-}
-
-img {
-	max-width:100%;
-}
-
-hr {
-	background: #000;
-    height: 1px;
-    border: 0;
-}
-
-header {
-	flex-basis:10rem;
-	flex-grow:1;
-	position:relative;
-}
-
-header a {
-	text-decoration: none;
-}
-
-header li {
-	margin-bottom: .2rem;
-	text-align: right;
-	margin-right: 2rem;
-}
-
-header a.active {
-	font-weight: bold;
-}
-
-header,section {
-	padding:1rem;
+b,
+strong {
+  font-weight: bold;
 }
 
 blockquote {
-	font-style: italic;
-    border-left: 5px solid #ececec;
-    padding-left: 1rem;
+  border-left: 5px solid $gray;
+  font-style: italic;
+  padding-left: 1rem;
 }
 
-h1,h2,h3,h4,h5 {
-	line-height: 1;
-	margin: 1rem 0;
-	font-weight: 600;
+code {
+  padding: .1rem;
 }
 
-section h1:first-child {
-	margin-top: 0;
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: $font-headings;
+  font-weight: 600;
+  line-height: 1;
+  margin: 1rem 0;
 }
 
-strong, b {
-	font-weight: bold;
+iframe {
+  margin: 1rem 0;
 }
 
-.photos ul {
-	list-style: none;
+img {
+  max-width: 100%;
+  max-height: 80vh;
 }
 
-.photos li {
-	margin-bottom: 1.5rem;
+hr {
+  background: $gray;
+  border: 0;
+  height: 1px;
+  margin: 1rem 0;
 }
 
-.photo picture, .project picture {
-	margin-bottom: 0.5rem;
+pre {
+  margin: .5rem 0;
+  overflow-x: auto;
+  padding: 1rem;
 }
 
-.posts ul,header ul {
-	list-style:none;
+table {
+  margin: 1rem 0;
 }
 
-.posts li {
-	align-items:center;
-	display:flex;
-	justify-content:space-between;
-	margin-bottom: .5rem;
+
+// layout
+body {
+  background: $whitish;
+  color: $blackish;
+  //font-display: fallback;
+  font-family: $font-body;
+  font-size: 1.2rem;
+  -webkit-font-smoothing: antialiased;
+  line-height: 1.5;
+  text-rendering: optimizeLegibility;
 }
 
-.posts li a, .posts li div, .projects li a {
-	white-space:nowrap;
-	overflow:hidden;
-	text-overflow:ellipsis;
-	text-decoration: none;
-}
+header {
+  flex-basis: 10rem;
+  flex-grow: 1;
+  padding: 1rem;
+  position: relative;
 
-.posts li time, .projects li time {
-	padding-left: 1rem;
-	white-space: nowrap;
-	font-variant-numeric: tabular-nums;
-}
+  a {
+    text-decoration: none;
 
-.post ul, .project ul, .post ol  {
-	//list-style-position: inside;
+    &.active {
+      font-weight: bold;
+    }
+  }
+
+  ul {
+    list-style: none;
+  }
+
+  li {
+    margin-bottom: .2rem;
+    margin-right: 2rem;
+    text-align: right;
+  }
 }
 
 main {
-	display:flex;
-	flex-wrap:wrap;
-	max-width:60rem;
-	margin:2rem auto;
-	padding:1rem;
-}
-
-
-@media screen and (max-width: 45rem ) {
-header li {
-    display: inline;
-	margin-right: 1rem;
-}
-.logo {
-	padding-bottom: 1rem;
-}
-header ul {
-	border-bottom: 1px solid #edf2f7;
-	padding-bottom: 2rem;	
-}
-nav ul {
-    border-right: 0px;
-}
-
-.photos ul {
-	margin-top: 0.5rem;
-}
-
+  display: flex;
+  flex-wrap: wrap;
+  margin: 2rem auto;
+  max-width: 60rem;
+  padding: 1rem;
 }
 
 section {
-	flex-basis:0;
-	flex-grow:999;
-	min-width:70%;
-	display:flex;
-	flex-direction:column;
-	
+  display: flex;
+  flex-basis: 0;
+  flex-direction: column;
+  flex-grow: 999;
+  min-width: 70%;
+  padding: 1rem;
+
+  h1:first-child {
+    margin-top: 0;
+  }
+
 }
 
-figcaption {
-    font-size: smaller;
+nav ul {
+  border-right: 1px solid $gray;
+}
+
+
+// post
+.post {
+  h2:first-child {
+    margin-top: 0;
+  }
+
+  p {
+    margin: 1rem 0;
+    &.kicker {
+      font-style: italic;
+      margin-top: -.5rem;
+    }
+
+  }
+
+  ol,
+  ul {
+    margin-left: 1.2rem;
+  }
+}
+
+.meta {
+  margin: 2rem 0;
+
+  a {
+    text-decoration: none;
+  }
+}
+
+
+// index
+.posts {
+  ul{
+  list-style: none;
+  }
+  li {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: .5rem;
+
+    a,
+    div {
+      overflow: hidden;
+      text-decoration: none;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    time {
+      font-variant-numeric: tabular-nums;
+      padding-left: 1rem;
+      white-space: nowrap;
+    }
+  }
+}
+
+
+// mobile
+@media screen and (max-width: 45rem) {
+  header {
+    li {
+      display: inline;
+      margin-right: 1rem;
+    }
+  }
+
+  main {
+    margin-top: 0;
+  }
+
+  nav ul {
+    border-right: 0;
+  }
+}
+
+
+// animations
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
 }
