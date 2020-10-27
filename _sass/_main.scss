@@ -175,6 +175,9 @@ nav ul {
 
 
 // post
+h2 {
+  font-size: 3rem;
+}
 .post {
   h2:first-child {
     margin-top: 0;
@@ -183,8 +186,10 @@ nav ul {
   p {
     margin: 1rem 0;
     &.kicker {
-      font-style: italic;
+      /*font-style: italic;*/
       margin-top: -.5rem;
+      font-size: 1.2rem;
+      text-transform: uppercase;
     }
 
   }

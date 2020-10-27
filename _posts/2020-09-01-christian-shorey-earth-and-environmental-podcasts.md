@@ -17,18 +17,18 @@ A sommelier-friend's passing suggestion set me on to [Shorey's lectures from his
 >
 >— Unfrobox17
 
-As Unfrobox17's review and many similar gushers attest on the podcast's [iTunes page](https://itunes.apple.com/us/itunes-u/earth-environmental-science/id439365947), Shorey makes good work of this "big habitable dirt ball of ours".  He recorded the lectures solo to help his students get deeper into the content and figured smartly that they could be of intertest to listeners farther afield.
+As the reviewer above and many similar gushers attest on the podcast's [iTunes page](https://itunes.apple.com/us/itunes-u/earth-environmental-science/id439365947), Shorey makes good work of this "big habitable dirt ball of ours".  He recorded the lectures solo to help his students get deeper into the course topics and figured smartly that the series would be of interest to listeners farther afield.
 
 ![jessica mcclure](https://spacecoastdaily.com/wp-content/uploads/2015/10/well-rescue-564x311.png)
 
-With helpful mnemonics  – the timescale of the universe scaled down to a single day – and memorable allusions – drillers destroying bits on heat-hardening [caliche](https://en.wikipedia.org/wiki/Caliche) when [famously](https://en.wikipedia.org/wiki/Rescue_of_Jessica_McClure) rescuing an 18 month-old girl at the bottom of a well – the lectures, despite their length, tease out your curiosity without miring you in jargon or detail.
+With helpful mnemonics  – the timescale of the universe scaled down to a single day – and memorable allusions – drillers destroying bits on heat-hardening [caliche](https://en.wikipedia.org/wiki/Caliche) when [famously](https://en.wikipedia.org/wiki/Rescue_of_Jessica_McClure) rescuing an 18 month-old girl at the bottom of a well as pictured above – the lectures, despite their length, tease out the listener's curiosity.
 
 ![Soil horizons](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Soil_profile.png/1024px-Soil_profile.png)
 
-Although you might shirk Shorey's advice to memorize your minerals and rocks, diagrams for [Bowen's Reaction Series](https://en.wikipedia.org/wiki/Bowen%27s_reaction_series) and [soil horizons](https://en.wikipedia.org/wiki/Soil_horizon) not to mention photos of sub-glacial volcanoes will extend your interest.
+Although you might shirk Shorey's advice to memorize your minerals and rocks, diagrams for [Bowen's Reaction Series](https://en.wikipedia.org/wiki/Bowen%27s_reaction_series) and [soil horizons](https://en.wikipedia.org/wiki/Soil_horizon) as above – not to mention photos of sub-glacial volcanoes lioke Mount Redoubt below – will complement your listening.
 
 ![Mount Redoubt](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Mt_Redoubt_2009-03-21_1237756418_ak231.JPG/1920px-Mt_Redoubt_2009-03-21_1237756418_ak231.JPG)
 
-Eventually you could sit down with [these](https://quizlet.com/70275283/colorado-school-of-mines-shorey-earth-test-1-flash-cards/) [flashcards](https://quizlet.com/206124880/gegn-101-exam-1-flash-cards/) from his more diligent students.  And if you are more pedagogically inclined but technically averse, you might enjoy his discussion below about how me made the podcast as well as [the videos for his Earth Exploration class](https://podcasts.apple.com/us/podcast/earth-explorations/id439366320):
+Eventually you could sit down with [these](https://quizlet.com/70275283/colorado-school-of-mines-shorey-earth-test-1-flash-cards/) [flashcards](https://quizlet.com/206124880/gegn-101-exam-1-flash-cards/) from his more diligent students.  And if you are more pedagogically inclined but technically averse, you might enjoy his discussion below about how he made the podcast as well as [the videos for his Earth Exploration class](https://podcasts.apple.com/us/podcast/earth-explorations/id439366320).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JCYWLmsACKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
