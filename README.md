@@ -1,6 +1,8 @@
 # brio
 > n. a quality of being active, spirited, alive, and vigorous.
 
+Thoughts, lots
+
 <https://brio.seeread.info>
 
 ## 🏁 Setup
@@ -11,11 +13,12 @@ bundle install
 ## 🏗 Dev
 ```sh
 bundle exec jekyll serve
+open http://127.0.0.1:4000
 ```
 
 Add tags in `_tags/` and in the prose block of `_config.yml`.
 
-## 📖 Ref
+Note: Preview on Safari to avoid SSL mess.
 
 [How to configure Prose](https://github.com/prose/prose/wiki/Prose-Configuration)
 

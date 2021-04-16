@@ -9,15 +9,17 @@ tags:
 ---
 ![Created by William Logan for the Geological Survey of Canada in 1864](https://tce-live2.s3.amazonaws.com/media/media/2bebe9b8-7dbd-4569-9cc1-fb24d96fa6de.jpg)
 
-Why have I been ogling these 19th century geological maps of Canada?  Well dear reader, the blame falls squarely on Colorado School of Mines's [Professor Christian Shorey](https://geology.mines.edu/project/shorey-christian/).
+Why have I been ogling 19th century geological maps of Canada? Blame [Professor Christian Shorey](https://geology.mines.edu/project/shorey-christian/) at the Colorado School of Mines.
 
-A sommelier-friend's passing suggestion set me on to [Shorey's lectures from his SYGN 101 / GEGN 101 Earth and Environmental Systems class](https://geology.mines.edu/sygn101-podcasts/) and now here I am researching the crisis of soil erosion and reciting the chemical composition of the Earth.
+A _terroir-minded_ friend suggested I direct my fledgling soil inquiries to [Shorey's lectures from his SYGN 101 / GEGN 101 Earth and Environmental Systems class](https://geology.mines.edu/sygn101-podcasts/) and months later I'm reciting the chemical composition of the Earth and researching the [crisis of soil erosion](https://www.smithsonianmag.com/science-nature/scientists-say-nations-corn-belt-has-lost-third-its-topsoil-180977485/) - a problem that Professor Shorey ranks equally if not more worrying than global warming.
+
+A review of his GEGN 101 podcast from iTunes:
 
 > I especially enjoyed the big story part of the lecture series. The breadth and depth was remarkable. It was a pleasure hearing Dr. Shorey speak. he had a nice tone pace, and perspectives, and occasional humor between the facts. I'd be curious to hear what Dr. Shorey has to say 10 years after the making of the series. And all the subject matter is still so relevant!
->
->— Unfrobox17
 
-As the reviewer above and many similar gushers attest on the podcast's [iTunes page](https://itunes.apple.com/us/itunes-u/earth-environmental-science/id439365947), Shorey makes good work of this "big habitable dirt ball of ours".  He recorded the lectures solo to help his students get deeper into the course topics and figured smartly that the series would be of interest to listeners farther afield.
+[As many similar gushers](https://itunes.apple.com/us/itunes-u/earth-environmental-science/id439365947), Professor Shorey makes good work of this "big habitable dirt ball of ours" without talking down to his audience. He presumes your interest but you learn you'd benefit from following up on the timescales, rock and mineral categories.
+
+He recorded the lectures solo to help his students get deeper into the course topics and figured smartly that the series would be of interest to listeners farther afield.
 
 ![jessica mcclure](https://spacecoastdaily.com/wp-content/uploads/2015/10/well-rescue-564x311.png)
 
