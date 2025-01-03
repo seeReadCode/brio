@@ -1,4 +1,8 @@
-- Add inline notes 
+- Add inline notes
     - https://github.com/oncomouse/jquery-inline-footnotes
     - http://oncomouse.github.io/inline-footnotes.html#fn:4
     - https://andrew.pilsch.com/blog/2014/12/05/stylish-markdown-footnotes-w-jquery/
+  - Add last upload, first upload, git history
+  - Add feed link/notifications
+  - Emojis
+  - First tag, second tag.

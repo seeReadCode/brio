@@ -7,11 +7,12 @@ summary: Cross-over Natural Science for the Curious
 tags:
   - geo
 ---
-![Created by William Logan for the Geological Survey of Canada in 1864](https://tce-live2.s3.amazonaws.com/media/media/2bebe9b8-7dbd-4569-9cc1-fb24d96fa6de.jpg)
 
-Why have I been ogling 19th century geological maps of Canada? Blame [Professor Christian Shorey](https://geology.mines.edu/project/shorey-christian/) at the Colorado School of Mines.
+Why have I been ogling 19th century geological maps of Canada?
 
-A _terroir-minded_ friend suggested I direct my fledgling soil inquiries to [Shorey's lectures from his SYGN 101 / GEGN 101 Earth and Environmental Systems class](https://geology.mines.edu/sygn101-podcasts/) and months later I'm reciting the chemical composition of the Earth and researching the [crisis of soil erosion](https://www.smithsonianmag.com/science-nature/scientists-say-nations-corn-belt-has-lost-third-its-topsoil-180977485/) - a problem that Professor Shorey ranks equally if not more worrying than global warming.
+Most of the blame is due to [Professor Christian Shorey](https://geology.mines.edu/project/shorey-christian/) at the Colorado School of Mines.
+
+A _terroir-minded_ friend directed me to [Shorey's lectures from his SYGN 101 / GEGN 101 Earth and Environmental Systems class](https://geology.mines.edu/sygn101-podcasts/) and months later I'm reciting the chemical composition of the Earth and researching the [crisis of soil erosion](https://www.smithsonianmag.com/science-nature/scientists-say-nations-corn-belt-has-lost-third-its-topsoil-180977485/) - a problem that Professor Shorey ranks equally if not more worrying than global warming.
 
 A review of his GEGN 101 podcast from iTunes:
 
@@ -20,8 +21,6 @@ A review of his GEGN 101 podcast from iTunes:
 [As many similar gushers](https://itunes.apple.com/us/itunes-u/earth-environmental-science/id439365947), Professor Shorey makes good work of this "big habitable dirt ball of ours" without talking down to his audience. He presumes your interest but you learn you'd benefit from following up on the timescales, rock and mineral categories.
 
 He recorded the lectures solo to help his students get deeper into the course topics and figured smartly that the series would be of interest to listeners farther afield.
-
-![jessica mcclure](https://spacecoastdaily.com/wp-content/uploads/2015/10/well-rescue-564x311.png)
 
 With helpful mnemonics  – the timescale of the universe scaled down to a single day – and memorable allusions – drillers destroying bits on heat-hardening [caliche](https://en.wikipedia.org/wiki/Caliche) when [famously](https://en.wikipedia.org/wiki/Rescue_of_Jessica_McClure) rescuing an 18 month-old girl at the bottom of a well as pictured above – the lectures, despite their length, tease out the listener's curiosity.
 
@@ -32,5 +31,3 @@ Although you might shirk Shorey's advice to memorize your minerals and rocks, di
 ![Mount Redoubt](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Mt_Redoubt_2009-03-21_1237756418_ak231.JPG/1920px-Mt_Redoubt_2009-03-21_1237756418_ak231.JPG)
 
 Eventually you could sit down with [these](https://quizlet.com/70275283/colorado-school-of-mines-shorey-earth-test-1-flash-cards/) [flashcards](https://quizlet.com/206124880/gegn-101-exam-1-flash-cards/) from his more diligent students.  And if you are more pedagogically inclined but technically averse, you might enjoy his discussion below about how he made the podcast as well as [the videos for his Earth Exploration class](https://podcasts.apple.com/us/podcast/earth-explorations/id439366320).
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JCYWLmsACKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,9 +1,12 @@
 # brio
 > n. a quality of being active, spirited, alive, and vigorous.
 
-Thoughts, lots
+Thoughts, lots.
 
-<https://brio.seeread.info>
+- [Brio](https://brio.seeread.info)
+- [Brio Repo](https://brio.seeread.info)
+- [Brio Editor](https://prose.io/#seeReadCode/brio/tree/master/_posts)
+
 
 ## 🏁 Setup
 ```sh
